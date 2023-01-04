@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cinema App</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="day">Day</string>
+    <string name="timing">Timing</string>
+    <string name="movie_pic">Movie Cover</string>
+</resources>
